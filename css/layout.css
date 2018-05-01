@@ -93,7 +93,6 @@ body.royal_loader {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
     text-align: center;
     margin: -90px 0px 0px -90px;
-    background-image: url('../images/loader.gif');
     background-repeat: no-repeat;
     background-position: 50% 0;
     padding-top: 80px;
@@ -337,7 +336,7 @@ body.royal_loader {
 
     box-sizing: border-box;
     -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box
+    -webkit-box-sizing: border-box;
     -webkit-transition: all 300ms linear;
     -moz-transition: all 300ms linear;
     -o-transition: all 300ms linear;
@@ -663,11 +662,6 @@ ul.slimmenu.collapsed li > ul {
 	display:block;
 	margin:0 auto;
 }
-
-
-
-
-
 
 
 
